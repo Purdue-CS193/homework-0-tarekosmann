@@ -3,7 +3,7 @@
 ### Favorite things about this class
 - I think **193** is a cool number
 - _GitHub_ is pretty useful
-- This 'homework' is fun
+- This ```homework``` is fun
 
 
 ```
