@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+# Tarek Osman's First CS193 Homework
+
+### Favorite things about this class
+- I think **193** is a cool number
+- _GitHub_ is pretty useful
+- This 'homework' is fun
+
+
+```
+Below is info about how to format a GitHub page
+```
+## GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
